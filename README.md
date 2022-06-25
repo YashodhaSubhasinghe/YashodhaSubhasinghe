@@ -4,3 +4,5 @@
 - 📫 How to reach me: yashodasubasinghe19@gmail.com
 - ⚡ Fun fact: 😄
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashodhaSubhasinghe&show_icons=true&locale=en&layout=compact" alt="YashodhaSubhasinghe" /></p>
