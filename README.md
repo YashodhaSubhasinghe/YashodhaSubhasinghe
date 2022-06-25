@@ -1,6 +1,8 @@
-### Hi there, I'm Yashodha Subhasinghe 👋
 
-- 🌱 I’m currently learning University of Colombo School of Computing
+<h2 align="center">Hi there 👋, I'm Yashodha Subhasinghe </h2>
+<h3 align="center">Student at University of Colombo School of Computing</h3>
+
+- 🌱 I’m currently learning University of Colombo School of Computing (UCSC)
 - 📫 How to reach me: yashodasubasinghe19@gmail.com
 - ⚡ Fun fact: 😄
 
